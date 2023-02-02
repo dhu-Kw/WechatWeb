@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05f2e634.css",
+    "main.js": "/static/js/main.999dcbca.js",
+    "static/media/medicine.png": "/static/media/medicine.976d09997ad3b499d4ac.png",
+    "static/media/mountain1.png": "/static/media/mountain1.c04cf46b8a16217ea856.png",
+    "static/media/mountain1_1.png": "/static/media/mountain1_1.577b534bdbe6e6300073.png",
+    "static/media/soup1.png": "/static/media/soup1.6c6849da8d0e088af58a.png",
+    "static/media/medicine2.png": "/static/media/medicine2.8704da08ddf8aff16e10.png",
+    "static/media/about.jpeg": "/static/media/about.3503e38250ef310f9cbe.jpeg",
+    "static/media/mountain3.png": "/static/media/mountain3.6d6456aa0d410c7eb1cf.png",
+    "static/media/soup2.png": "/static/media/soup2.3607435d4fb311f49b05.png",
+    "static/media/soup3.png": "/static/media/soup3.f88f9e0f16b781a22cd9.png",
+    "static/media/medicine1.png": "/static/media/medicine1.da618d45ecc1522b93e6.png",
+    "static/media/mountain2.png": "/static/media/mountain2.efbf67b4db1ec316e3e9.png",
+    "static/media/titlIcon1.png": "/static/media/titlIcon1.d8441a870e6e44cabe0d.png",
+    "static/media/health_figure.png": "/static/media/health_figure.1f369ecaed3df5319bb8.png",
+    "static/media/mountain_figure.png": "/static/media/mountain_figure.350166bda8f9598c692f.png",
+    "static/media/dress_figure.png": "/static/media/dress_figure.ee025f229488327d20f8.png",
+    "static/media/titlIcon2.png": "/static/media/titlIcon2.c3d1a095f8ef04ff3317.png",
+    "index.html": "/index.html",
+    "main.05f2e634.css.map": "/static/css/main.05f2e634.css.map",
+    "main.999dcbca.js.map": "/static/js/main.999dcbca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05f2e634.css",
+    "static/js/main.999dcbca.js"
+  ]
+}
